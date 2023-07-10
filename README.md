@@ -9,8 +9,6 @@
 
 <p align="left"> I am an Industrial Engineer born in Argentina, passionate about sports and the world of data. Once I graduated as an engineer, I decided to embark on this path in the exciting world of data science and analysis. I worked as a data analyst, a job that allowed me to insert myself into the working world and see with my own eyes the impact that data has when it is considered a vital part for the functioning of any organization. I am currently studying Data Science with the aim of acquiring new tools for my professional and personal development.
 
-Feel free to contact me or send me your contact request. 
-
 Best wishes and let's analyze data! 
 
 
@@ -18,6 +16,9 @@ Best wishes and let's analyze data!
 - 👨🏼‍🎓 Industrial Engineer 
 - 🌎 Argentinian / Italian
 - 🗣️ Spanish / English
+
+
+Feel free to contact me or send me your contact request. 
 
 <h3 align="left">Contact me</h3>
 </div>
