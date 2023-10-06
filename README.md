@@ -20,7 +20,6 @@ Best wishes and let's analyze data!
 
 <h3 align="left">Tools</h3>
 
-- 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
@@ -29,7 +28,6 @@ Best wishes and let's analyze data!
   ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
   ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-  ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
   ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
