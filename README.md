@@ -11,11 +11,9 @@
 
 Best wishes and let's analyze data! 
 
-
-- 📚 Currently studying Data Science Career at @soyHenry
-- 👨🏼‍🎓 Industrial Engineer 
-- 🌎 Argentinian / Italian
-- 🗣️ Spanish / English
+- 👨🏼‍🎓 Data Scientist | Industrial Engineer 
+- 🌎 Argentinian | Italian
+- 🗣️ Spanish | English
 
 
 <h3 align="left">Tools</h3>
