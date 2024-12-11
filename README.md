@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center"> Hello, I'm Juan 👋
 </div>
-<img src="https://i.imgur.com/mQ85HhZ.png">
-
+<img src="https://res.cloudinary.com/dwyzrynk5/image/upload/v1733915289/Banner_LinkedIn_Minimalista_awkiwj.png">
+<!-- "https://i.imgur.com/mQ85HhZ.png" -->
 
 <h3 align="left">About me</h3>
 </div>
