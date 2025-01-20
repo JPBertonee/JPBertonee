@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Hello, I'm Juan 👋
 </div>
-<img src="https://res.cloudinary.com/dwyzrynk5/image/upload/v1733916447/Banner_LinkedIn_Minimalista_awkiwj.png">
+<img src="https://res.cloudinary.com/dwyzrynk5/image/upload/v1737359283/Black_Gradient_LinkedIn_Banner_llx3ox.png">
 <!-- "https://i.imgur.com/mQ85HhZ.png" -->
 
 <h3 align="left">About me</h3>
