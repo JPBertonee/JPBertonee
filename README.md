@@ -9,7 +9,7 @@
 I am a **Data Analyst**, **BI Developer** and **Industrial Engineer** from Argentina, passionate about sports and the world of data. Once I graduated as an engineer, I decided to embark on this journey in the exciting field of **data science and analysis**. Working as a **data analyst** allowed me to experience firsthand the impact of data when it is considered a **vital component** of any organization. I am currently studying **Data Science** to acquire new tools for both my professional and personal growth.  
 
 ### 🚀 Quick Facts:
-- 👨🏼‍🎓 **Data Analyst | Industrial Engineer**  
+- 👨🏼‍🎓 **Data Analyst | BI Developer**  
 - 🌎 **Argentinian | Italian**  
 - 🗣️ **Spanish | English**  
 
