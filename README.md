@@ -39,7 +39,8 @@ Feel free to contact me or send me your contact request.
 <h3 align="left">Contact me</h3>
 </div>
 <a href="https://www.linkedin.com/in/JPBertone"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/juampibertone"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/juampibertone"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://jpb-mysite.carrd.co/"><img src="https://img.shields.io/badge/MySite-8A2BE2?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
 </p>
-  
+
 
